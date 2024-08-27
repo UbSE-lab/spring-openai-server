@@ -1,4 +1,4 @@
-package org.springframework.ai.openai.samples.helloworld;
+package org.springframework.ai.openai.samples.helloworld.keyword.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.context.annotation.Bean;
